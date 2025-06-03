@@ -42,3 +42,23 @@ nvda-stock-analysis/
 ├── NVDA_Stock_Analysis.ipynb          # Jupyter Notebook with analysis
 ├── requirements.txt                   # pip dependencies
 └── README.md                          # This file
+
+
+git clone https://github.com/<your-username>/nvda-stock-analysis.git
+cd nvda-stock-analysis
+
+python3 -m venv venv
+source venv/bin/activate    # On Windows use “venv\Scripts\activate”
+
+pip install -r requirements.txt
+
+pandas>=1.3
+matplotlib>=3.4
+statsmodels>=0.13
+
+
+data/
+├── Copy of NVDA_daily_data.csv
+└── nvda_news_headlines.csv
+
+
