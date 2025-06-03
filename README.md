@@ -9,10 +9,6 @@ _Data Analysis on NVDA Stock_
 1. [Overview](#overview)  
 2. [Repository Structure](#repository-structure)  
 3. [Prerequisites](#prerequisites)  
-4. [Data Setup](#data-setup)  
-5. [Running the Notebook](#running-the-notebook)  
-6. [Expected Outputs](#expected-outputs)  
-7. [Contact & Contributions](#contact--contributions)  
 
 ---
 
